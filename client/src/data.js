@@ -15,7 +15,7 @@ export const projects = [
     type: 'Automation',
     description: 'Built a Python-based automation script to migrate data from PostgreSQL to MySQL, including table structures and records, without manual table creation',
     tech: ['Python', 'PostgreSQL', 'MySQL', 'Pandas', 'SQLAlchemy', 'psycopg2-binary', 'PyMySQL'],
-    link: null,
+    link:"https://github.com/deepj98/dbmigration-automation",
   },
   {
     id: 2,
